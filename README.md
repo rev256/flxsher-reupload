@@ -10,13 +10,6 @@ ifykyk.
 
 ---
 
-## Screenshots
-
-
-![Screenshot](./preview-1.png)
-
----
-
 ## Installation 
 
 1. Start the .exe file:
