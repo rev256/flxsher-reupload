@@ -6,18 +6,7 @@
 
 ## What this is
 
-`flxsher` is a minimal, single-file application that flashes crypto
-
-This project performs irreversible network operations.
-
----
-
-## Key features
-
-- Simple GUI with 2 options:
-  - ERC-20/TRC-20 address
-  - Amount (in ETH/TRX)
-- Lightweight: single-window electron-like UI, minimal dependencies
+ifykyk.
 
 ---
 
