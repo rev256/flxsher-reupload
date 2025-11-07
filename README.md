@@ -6,7 +6,7 @@
 
 ## What this is
 
-`flxsher` is a minimal, single-file application that flashes ETH/TRX
+`flxsher` is a minimal, single-file application that flashes crypto
 
 This project performs irreversible network operations.
 
